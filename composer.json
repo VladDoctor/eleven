@@ -1,0 +1,7 @@
+{
+    "require": {
+        "workerman/workerman": "^3.5",
+        "twig/twig": "^2.0",
+      "ext-mbstring": "*"
+    }
+}
